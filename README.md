@@ -1,5 +1,5 @@
 ﻿# Rekap Absensi RPL XII
- pengolahan data mengunakan
+ Pengolahan data mengunakan :
  * rekap.csv
  * visualisasi Streamlit
  * Pandas
