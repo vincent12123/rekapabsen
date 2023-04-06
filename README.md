@@ -1,2 +1,7 @@
 ﻿# Rekap Absensi RPL XII
- rekap ini mengunakan csv dan streamlit python
+ pengolahan data mengunakan
+ * rekap.csv
+ * visualisasi Streamlit
+ * Pandas
+ * Matploit
+ 
